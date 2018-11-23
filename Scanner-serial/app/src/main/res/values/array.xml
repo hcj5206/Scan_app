@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jobs">
+        <item>请选择</item>
+        <item>铣边分拣</item>
+        <item>铣边</item>
+        <item>打磨</item>
+        <item>压条分拣</item>
+        <item>压条</item>
+        <item>模压前分拣</item>
+        <item>模压</item>
+        <item>膜压后上架</item>
+        <item>做旧</item>
+        <item>质检</item>
+        <item>打包</item>
+        <item>上架待发货</item>
+        <item>发货</item>
+        <item>打孔</item>
+        <item>手工打磨</item>
+    </string-array>
+    <string-array name="position">
+        <item>请选择</item>
+        <item>工位1</item>
+        <item>工位2</item>
+        <item>工位3</item>
+        <item>工位4</item>
+        <item>工位5</item>
+        <item>工位6</item>
+        <item>其他</item>
+    </string-array>
+</resources>
